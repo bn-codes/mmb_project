@@ -116,4 +116,4 @@ df = pd.DataFrame({
 
 
 # Uložení výsledků do csv souboru
-df.to_csv('C:/Users/barun/OneDrive/Plocha/Bioinformatika/Navazující magisterské studium/Matematické modelování v bioinformatice/Semestrální práce/vysledky.csv', index=False)
+df.to_csv('vysledky.csv', index=False)
